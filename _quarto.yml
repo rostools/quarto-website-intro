@@ -10,8 +10,8 @@ book:
     - Luke W. Johnston
     - Signe Kirk Brødbæk
   date: last-modified
-  repo-url: https://github.com/rostools/tutorial-quarto-website-intro/
-  site-url: https://tutorial-quarto-website-intro.rostools.org/
+  repo-url: https://github.com/rostools/quarto-website-intro/
+  site-url: https://quarto-website-intro.rostools.org/
   chapters:
     - index.qmd
     - part: "Preamble"
